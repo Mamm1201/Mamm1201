@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy Mamm1201  
+# 👋 ¡Hola! me llamo Mamm1201  
 
 💻 **Desarrollador Full Stack | Python | JavaScript | Django | React**  
 🚀 Apasionado por la tecnología, el código limpio y las soluciones escalables.  
