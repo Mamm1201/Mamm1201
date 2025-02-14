@@ -5,7 +5,7 @@
 🚀 Apasionado por la tecnología, el código limpio y las soluciones escalables.  
 
 ## 🌟 Sobre mí  
-- 🔭 Actualmente trabajo en **[Proyectos donde integre IoT](#)**
+- 🔭 Actualmente trabajo en **[Proyectos que integren IoT con python](#)**
 - 📫 Contáctame en [mmmalejandro01@gmail.com](mmmalejandro01@gmail.com)
 - 💡 Me interesa **IA, Backend, Automatización y Software Web**
 - ⚡ Fun fact: **Soy fanático del café y el código ☕👨‍💻**
